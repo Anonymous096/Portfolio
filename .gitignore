@@ -7,10 +7,10 @@
 
 # testing
 /coverage
+/src/assets
 
 # production
 /build
-/src/assets
 
 # misc
 .DS_Store
