@@ -16,7 +16,7 @@ const Services = () => {
           <div>
             <i className="uil uil-web-grid services__icon"></i>
             <h3 className="services__title">
-              Product <br /> Designer
+              Product <br /> Design
             </h3>
           </div>
           <span className="services__button" onClick={() => toggleTab(1)}>
@@ -35,7 +35,7 @@ const Services = () => {
                 onClick={() => toggleTab(0)}
                 className="uil uil-times services__modal-close"
               ></i>
-              <h3 className="services__modal-title">Product Designer</h3>
+              <h3 className="services__modal-title">Product Design</h3>
               <p className="services__modal-description">
                 Service with more than 3 years of experience.Providing quality
                 work to clients and companies.
@@ -78,7 +78,7 @@ const Services = () => {
           <div>
             <i className="uil uil-arrow services__icon"></i>
             <h3 className="services__title">
-              Ui/Ux <br /> Designer
+              Ui/Ux <br /> Design
             </h3>
           </div>
           <span className="services__button" onClick={() => toggleTab(2)}>
@@ -140,7 +140,7 @@ const Services = () => {
           <div>
             <i className="uil uil-edit services__icon"></i>
             <h3 className="services__title">
-              Visual <br /> Designer
+              Visual <br /> Design
             </h3>
           </div>
           <span className="services__button" onClick={() => toggleTab(3)}>
@@ -159,7 +159,7 @@ const Services = () => {
                 onClick={() => toggleTab(0)}
                 className="uil uil-times services__modal-close"
               ></i>
-              <h3 className="services__modal-title">Visual Designer</h3>
+              <h3 className="services__modal-title">Visual Design</h3>
               <p className="services__modal-description">
                 Service with more than 3 years of experience.Providing quality
                 work to clients and companies.
