@@ -10,30 +10,35 @@ export const projectsData = [
     image: Work1,
     title: "Web design",
     category: "web",
+    link: "https://www.google.com",
   },
   {
     id: 2,
     image: Work2,
     title: "Flowz",
     category: "app",
+    link: "https://github.com/Anonymous096/Flowz",
   },
   {
     id: 3,
     image: Work3,
     title: "Brand design",
     category: "design",
+    link: "https://www.google.com",
   },
   {
     id: 4,
     image: Work4,
     title: "PDF Talks",
     category: "app",
+    link: "https://pdf-talks.vercel.app/",
   },
   {
     id: 5,
     image: Work5,
     title: "Web design",
     category: "web",
+    link: "https://www.google.com",
   },
 ];
 
